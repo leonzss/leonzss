@@ -11,6 +11,6 @@ Connect with me:
 
 ## About Me...
 
-I am an Information Systems student with a strong passion for web development. I have hands-on experience with frameworks such as Codeigniter and Laravel. Additionally, I am well-versed in WordPress, a user-friendly content management system enabling seamless website creation and management. I firmly believe in the transformative power of technology to shape our world. My unwavering enthusiasm for continuous learning drives me to contribute to the creation of innovative digital solutions.
+I'm web development. I have hands-on experience with frameworks such as Codeigniter and Laravel. Additionally, I am well-versed in WordPress, a user-friendly content management system enabling seamless website creation and management. I firmly believe in the transformative power of technology to shape our world. My unwavering enthusiasm for continuous learning drives me to contribute to the creation of innovative digital solutions.
 
 **Hi, I'd be happy to get to know you better! Let's connect and collaborate!** 😊
